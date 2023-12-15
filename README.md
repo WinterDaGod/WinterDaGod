@@ -6,9 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterdagod&label=Profile%20views&color=0e75b6&style=flat" alt="winterdagod" /> </p>
 
 - 🔭 I’m currently working on [KiyoshiNCode](https://kiyoshikazuo.netlify.app/)
+- 🔭 I’m currently working on [Kiyoshi 3D](https://kiyoshi3d.vercel.app/)
 
 - 🌱 I’m currently learning **Python**
 
+- 👨‍💻 All of my projects are available at [https://kiyoshi3d.vercel.app/](https://kiyoshi3d.vercel.app/)
 - 👨‍💻 All of my projects are available at [https://kiyoshikazuo.netlify.app/](https://kiyoshikazuo.netlify.app/)
 
 - 📫 How to reach me **yotohime211@gmail.com**
