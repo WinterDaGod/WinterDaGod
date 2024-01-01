@@ -1,17 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kiyoshi Kazuo</h1>
-<h3 align="center">A Full-stack developer based from Philippines</h3>
+<h3 align="center">A Fullstack developer based from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterdagod&label=Profile%20views&color=0e75b6&style=flat" alt="winterdagod" /> </p>
 
-- 🔭 I’m currently working on [KiyoshiNCode](https://kiyoshikazuo.netlify.app/)
-- 🔭 I’m currently working on [Kiyoshi 3D](https://kiyoshi3d.vercel.app/)
-
 - 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://kiyoshi3d.vercel.app/](https://kiyoshi3d.vercel.app/)
-- 👨‍💻 All of my projects are available at [https://kiyoshikazuo.netlify.app/](https://kiyoshikazuo.netlify.app/)
 
 - 📫 How to reach me **yotohime211@gmail.com**
 
