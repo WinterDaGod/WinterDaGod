@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kiyoshi Kazuo</h1>
+<h1 align="center">New Account of Kiyoshi Kazuo</h1>
 
 <h3 align="center">
-Full-Stack Developer • Software Engineer • Mobile App Developer 🇵🇭
+Full-Stack Developer • Software Engineer • Mobile App Developer
 </h3>
 
 <p align="center">
@@ -109,7 +109,7 @@ Full-Stack Developer • Software Engineer • Mobile App Developer 🇵🇭
 
 # 🏆 Featured Project
 
-### 🍽️ FoodGapp
+### 🍽️ FoodGapp: Eat Better, Track Smarter
 
 AI-powered nutrition tracking application built with Flutter.
 
@@ -119,7 +119,7 @@ AI-powered nutrition tracking application built with Flutter.
 - 📷 Barcode scanning
 - 🥗 Personalized meal planning
 - 📊 Macro & calorie tracking
-- 🇵🇭 Philippine nutrition support (DOST-FNRI)
+- Philippine nutrition support (DOST-FNRI)
 
 ---
 
