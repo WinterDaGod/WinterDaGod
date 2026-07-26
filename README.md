@@ -1,113 +1,158 @@
 <h1 align="center">Hi 👋, I'm Kiyoshi Kazuo</h1>
-<h3 align="center">Full-Stack Developer & Software Engineer based in the Philippines 🇵🇭</h3>
+
+<h3 align="center">
+Full-Stack Developer • Software Engineer • Mobile App Developer 🇵🇭
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winterdagod&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 💫 About Me
-
-<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-* 🚀 **Role:** Full-Stack Developer & Software Engineer
-* 🐍 **Currently Learning:** Advanced Python & System Architecture
-* 💬 **Ask me about:** JavaScript, React, Node.js, and Full-Stack Engineering
-* 📫 **Reach out:** [kiyoshikazuolaptop@gmail.com](mailto:kiyoshikazuolaptop@gmail.com)
-
-<br/>
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://fb.com/anonymous01001001" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/iihsoyik_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/winter-xu1ys" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Applications;Flutter+Developer;Full-Stack+Engineer;Always+Learning+New+Technologies" />
   </a>
 </p>
-
----
-
-### 🛠 Tech Stack
-
-**Programming Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
-
-**Backend & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</p>
-
-**Databases, Cloud & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-</p>
-
----
-
-### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winterdagod&show_icons=true&theme=tokyonight&hide_border=true" alt="Kiyoshi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterdagod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=winterdagod&label=Profile+Views&color=0e75b6&style=flat-square"/>
 </p>
 
 ---
 
-### ☕ Support My Work
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/winterrrr1_" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://ko-fi.com/winterrrr1_" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="45" />
-  </a>
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🚀 Full-Stack Developer from the Philippines
+- 📱 Currently building **FoodGapp**, an AI-powered calorie and nutrition tracking app
+- 🌱 Learning **System Design, Cloud Architecture, and Advanced Python**
+- 💬 Ask me about **Flutter, React, Node.js, APIs, and Software Engineering**
+- 🎯 Passionate about creating scalable web and mobile applications
+- ⚡ Fun fact: I enjoy turning ideas into real products.
+
+📫 **Email:** **kiyoshikazuolaptop@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://fb.com/anonymous01001001">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/iihsoyik_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/winter-xu1ys">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,dart,kotlin,cpp,cs,html,css"/>
+</p>
+
+### Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,flutter,android"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,laravel,dotnet"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,git,linux"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,figma,unity,github"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=winterdagod&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterdagod&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=winterdagod&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=winterdagod&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Featured Project
+
+### 🍽️ FoodGapp
+
+AI-powered nutrition tracking application built with Flutter.
+
+**Features**
+
+- 🤖 AI meal recognition
+- 📷 Barcode scanning
+- 🥗 Personalized meal planning
+- 📊 Macro & calorie tracking
+- 🇵🇭 Philippine nutrition support (DOST-FNRI)
+
+---
+
+# 💻 Workspace
+
+<p>
+<img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+# ☕ Support Me
+
+<p>
+<a href="https://www.buymeacoffee.com/winterrrr1_">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
+</a>
+
+<a href="https://ko-fi.com/winterrrr1_">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
+<br>
+<b>– John Johnson</b>
 </p>
