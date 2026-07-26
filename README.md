@@ -3,7 +3,7 @@
 <h3 align="center">
 Full-Stack Developer • Software Engineer • Mobile App Developer
 </h3>
-[![trophy]https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=winterdagod)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Applications;Flutter+Developer;Full-Stack+Engineer;Always+Learning+New+Technologies" />
